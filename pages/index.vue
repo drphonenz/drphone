@@ -2,7 +2,7 @@
   <div>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-lg-12 banner d-flex flex-column align-items-center justify-content-center text-center">
+        <div class="col-lg-12 banner d-flex flex-column align-items-center justify-content-center text-center p-5">
           <h1 class="display-3 text-uppercase font-weight-bold text-white">
             Mobile Phone Repair est. 2015
           </h1>
