@@ -15,6 +15,17 @@
         <b-nav-item to="/contact">
           Contact us
         </b-nav-item>
+        <b-nav-item v-b-modal.modal-1>
+          Store
+        </b-nav-item>
+        <b-modal id="modal-1" title="Dr Phone Online Store" class="text-center">
+          <p class="my-4">
+            Under construction, please stay tuned.
+          </p>
+          <p class="my-4">
+            Visit us at <strong>Unit G11/170 Queen Street</strong> to buy any mobile accessories that you need.
+          </p>
+        </b-modal>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
