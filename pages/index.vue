@@ -9,7 +9,7 @@
           <p class="text-white">
             Unit G11/170 Queen Street, Auckland CBD, Auckland 1010
           </p>
-          <a class="text-white" href="tel:093651212">
+          <a class="text-white" href="tel:093651212" target="_self" rel="noopener">
             09 365 1212
           </a>
         </div>
@@ -32,7 +32,7 @@
               We are a GST registered company since 2015. We stock mobile phone casings, tempered glasses, wall chargers, USB charging cables, portable battery banks, USB memory drives and more for our clients to meet their busy techie lifestyle.
             </p>
             <p class="text-white text-justify">
-              You can see the feedback of our clients on Google Review <a href="https://www.google.co.nz/search?q=dr+phone+repair#lrd=0x6d0d47fb1a45a5b5:0xab7e635f5751b66a,1,,," target="_blank">here</a>. Give us a call today and we promise not to waste your time.
+              You can see the feedback of our clients on Google Review <a href="https://www.google.co.nz/search?q=dr+phone+repair#lrd=0x6d0d47fb1a45a5b5:0xab7e635f5751b66a,1,,," target="_blank" rel="noopener">here</a>. Give us a call today and we promise not to waste your time.
             </p>
           </div>
         </div>

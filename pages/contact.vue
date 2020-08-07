@@ -66,25 +66,25 @@
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:093651212">09 365 1212</a> (Landline)
+                <a href="tel:093651212" target="_self" rel="noopener">09 365 1212</a> (Landline)
               </p>
             </li>
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:021365377">021 365 377</a> (Sales)
+                <a href="tel:021365377" target="_self" rel="noopener">021 365 377</a> (Sales)
               </p>
             </li>
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:0212640000">021 264 0000</a> (Information)
+                <a href="tel:0212640000" target="_self" rel="noopener">021 264 0000</a> (Information)
               </p>
             </li>
             <li>
               <p>
                 <font-awesome-icon icon="envelope" class="mr-3"/>
-                <a href="mailto:info@drphone.co.nz">info@drphone.co.nz</a>
+                <a href="mailto:info@drphone.co.nz" target="_self" rel="noopener">info@drphone.co.nz</a>
               </p>
             </li>
             <li>
@@ -120,7 +120,7 @@
             data-show-facepile="true"
           >
             <blockquote cite="https://www.facebook.com/drphonenz/" class="fb-xfbml-parse-ignore">
-              <a href="https://www.facebook.com/drphonenz/">Dr Phone Repair</a>
+              <a href="https://www.facebook.com/drphonenz" target="_self" rel="noopener">Dr Phone Repair</a>
             </blockquote>
           </div>
         </div>
