@@ -4,7 +4,7 @@
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0&appId=398069564204527&autoLogAppEvents=1"></script>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-lg-12 p-0">
+        <div class="col-lg-12 p-0 contact">
           <no-ssr>
             <carousel
               :items="3"
@@ -36,8 +36,11 @@
         </div>
       </div>
     </div>
-    <div class="container contact">
-      <div class="row pt-5">
+    <div class="container">
+      <div class="row pt-5 justify-content-center">
+        <img class="img-fluid" src="~/assets/images/banner-level3-queenstreet.jpg" alt="Covid-19">
+      </div>
+      <div class="row">
         <div class="col-lg-12 pt-5 pb-3">
           <h1 class="text-center">
             Contact Us
@@ -137,7 +140,9 @@
 </template>
 
 <style lang="scss" scoped>
-  img {
-    height: 400px;
+  .contact {
+    img {
+      height: 400px;
+    }
   }
 </style>
