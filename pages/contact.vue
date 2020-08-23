@@ -61,10 +61,12 @@
         <div class="col-lg-6">
           <ul class="list-unstyled pb-5">
             <li>
-              <p>
-                <font-awesome-icon icon="home" class="mr-3"/>
-                Unit G11/170 Queen Street, Auckland CBD, Auckland 1010
-              </p>
+              <a class="text-body" href="http://g.page/drphonenz" target="_blank" rel="noopener">
+                <p>
+                  <font-awesome-icon icon="home" class="mr-3"/>
+                  Unit G11/170 Queen Street, Auckland CBD, Auckland 1010
+                </p>
+              </a>
             </li>
             <li>
               <p>
