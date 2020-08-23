@@ -6,9 +6,11 @@
           <h1 class="display-3 text-uppercase font-weight-bold text-white">
             Mobile Phone Repair est. 2015
           </h1>
-          <p class="text-white">
-            Unit G11/170 Queen Street, Auckland CBD, Auckland 1010
-          </p>
+          <a class="text-white" href="http://g.page/drphonenz" target="_blank" rel="noopener">
+            <p class="text-white">
+              Unit G11/170 Queen Street, Auckland CBD, Auckland 1010
+            </p>
+          </a>
           <a class="text-white" href="tel:093651212" target="_self" rel="noopener">
             09 365 1212
           </a>
