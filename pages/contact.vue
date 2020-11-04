@@ -89,7 +89,7 @@
             <li>
               <p>
                 <font-awesome-icon icon="envelope" class="mr-3"/>
-                <a href="mailto:info@drphone.co.nz" target="_self" rel="noopener">info@drphone.co.nz</a>
+                <a href="mailto:drphonenz@gmail.com" target="_self" rel="noopener">drphonenz@gmail.com</a>
               </p>
             </li>
             <li>
