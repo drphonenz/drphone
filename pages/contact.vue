@@ -64,38 +64,26 @@
               <a class="text-body" href="http://g.page/drphonenz" target="_blank" rel="noopener">
                 <p>
                   <font-awesome-icon icon="home" class="mr-3"/>
-                  Unit G11/170 Queen Street, Auckland CBD, Auckland 1010
+                  1 Huron Street, Takapuna, Auckland 0622
                 </p>
               </a>
             </li>
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:093651212" target="_self" rel="noopener">09 365 1212</a> (Landline)
+                <a href="tel:0800429429" target="_self" rel="noopener">0800 429 429</a> (Toll)
               </p>
             </li>
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:021365377" target="_self" rel="noopener">021 365 377</a> (Sales)
-              </p>
-            </li>
-            <li>
-              <p>
-                <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:0212640000" target="_self" rel="noopener">021 264 0000</a> (Information)
-              </p>
-            </li>
-            <li>
-              <p>
-                <font-awesome-icon icon="envelope" class="mr-3"/>
-                <a href="mailto:drphonenz@gmail.com" target="_self" rel="noopener">drphonenz@gmail.com</a>
+                <a href="tel:095515344" target="_self" rel="noopener">09 551 5344</a> (Office)
               </p>
             </li>
             <li>
               <p>
                 <font-awesome-icon icon="clock" class="mr-3"/>
-                Monday to Friday, 09:00AM &mdash; 06:00PM
+                Monday to Friday, 09:00AM &mdash; 05:00PM
               </p>
             </li>
             <li>
