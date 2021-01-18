@@ -6,16 +6,11 @@
           <h1 class="display-3 text-uppercase font-weight-bold text-white">
             Mobile Phone Repair est. 2015
           </h1>
-          <a class="text-white" href="http://g.page/drphonenz" target="_blank" rel="noopener">
-            <p class="text-white">
-              1 Huron Street, Takapuna, Auckland 0622
-            </p>
-          </a>
           <a class="text-white" href="tel:0800429429" target="_self" rel="noopener">
             0800 429 429
           </a>
           <h1 class="display-2 text-uppercase font-weight-bold text-white">
-            We have moved to Takapuna
+            We have moved Online
           </h1>
         </div>
       </div>

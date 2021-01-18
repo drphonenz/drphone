@@ -37,9 +37,6 @@
       </div>
     </div>
     <div class="container">
-      <div class="row pt-5 justify-content-center">
-        <img class="img-fluid" src="~/assets/images/banner-level3-queenstreet.jpg" alt="Covid-19">
-      </div>
       <div class="row">
         <div class="col-lg-12 pt-5 pb-3">
           <h1 class="text-center">
@@ -60,14 +57,6 @@
       <div class="row py-5">
         <div class="col-lg-6">
           <ul class="list-unstyled pb-5">
-            <li>
-              <a class="text-body" href="http://g.page/drphonenz" target="_blank" rel="noopener">
-                <p>
-                  <font-awesome-icon icon="home" class="mr-3"/>
-                  1 Huron Street, Takapuna, Auckland 0622
-                </p>
-              </a>
-            </li>
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
@@ -116,13 +105,6 @@
               <a href="https://www.facebook.com/drphonenz" target="_self" rel="noopener">Dr Phone Repair</a>
             </blockquote>
           </div>
-        </div>
-      </div>
-    </div>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-lg-12 p-0">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12771.058964815189!2d174.766039!3d-36.84811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xab7e635f5751b66a!2sDr+Phone+Repair!5e0!3m2!1sen!2smy!4v1532234653881" frameborder="0" width="100%" height="500px" title="Contact Us"/>
         </div>
       </div>
     </div>
