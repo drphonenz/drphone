@@ -3,15 +3,21 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-12 banner d-flex flex-column align-items-center justify-content-center text-center p-5">
-          <h1 class="display-3 text-uppercase font-weight-bold text-white">
-            Mobile Phone Repair est. 2015
-          </h1>
-          <a class="text-white" href="tel:0800429429" target="_self" rel="noopener">
-            0800 429 429
-          </a>
           <h1 class="display-2 text-uppercase font-weight-bold text-white">
-            We have moved Online
+            Dr Phone Repair
           </h1>
+          <h1 class="display-2 text-uppercase font-weight-bold text-white">
+            Mobile Phone Repair since 2015
+          </h1>
+          <a class="text-white font-weight-bold" href="tel:093651212" target="_self" rel="noopener">
+            Phone: 09 365 1212
+          </a>
+          <a class="text-white font-weight-bold" href="tel:021365377" target="_self" rel="noopener">
+            WhatsApp: 021 365 377
+          </a>
+          <p class="text-white font-weight-bold">
+            We are moving online on 22nd January 2021!
+          </p>
         </div>
       </div>
     </div>

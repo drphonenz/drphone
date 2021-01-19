@@ -60,13 +60,13 @@
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:0800429429" target="_self" rel="noopener">0800 429 429</a> (Toll)
+                <a href="tel:093651212" target="_self" rel="noopener">09 365 1212</a>
               </p>
             </li>
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:095515344" target="_self" rel="noopener">09 551 5344</a> (Office)
+                <a href="tel:021365377" target="_self" rel="noopener">021 365 377</a>
               </p>
             </li>
             <li>
