@@ -9,11 +9,17 @@
           <h1 class="display-2 text-uppercase font-weight-bold text-white">
             Mobile Phone Repair since 2015
           </h1>
-          <a class="text-white font-weight-bold" href="tel:093651212" target="_self" rel="noopener">
+          <a class="text-white" href="tel:093651212" target="_self" rel="noopener">
             Phone: 09 365 1212
           </a>
-          <a class="text-white font-weight-bold" href="tel:021365377" target="_self" rel="noopener">
+          <a class="text-white" href="tel:021365377" target="_self" rel="noopener">
             WhatsApp: 021 365 377
+          </a>
+          <a class="text-white" href="mailto:drphonenz@gmail.com" target="_self" rel="noopener">
+            drphonenz@gmail.com
+          </a>
+          <a class="text-white" href="www.drphone.co.nz" target="_self" rel="noopener">
+            www.drphone.co.nz
           </a>
           <p class="text-white font-weight-bold">
             We are moving online on 22nd January 2021!
