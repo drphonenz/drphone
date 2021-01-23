@@ -18,7 +18,7 @@
           <a class="text-white" href="mailto:drphonenz@gmail.com" target="_self" rel="noopener">
             drphonenz@gmail.com
           </a>
-          <a class="text-white" href="www.drphone.co.nz" target="_self" rel="noopener">
+          <a class="text-white" href="https://www.drphone.co.nz" target="_self" rel="noopener">
             www.drphone.co.nz
           </a>
           <p class="text-white font-weight-bold">
