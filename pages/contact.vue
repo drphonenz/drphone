@@ -60,7 +60,7 @@
             <li>
               <p>
                 <font-awesome-icon icon="phone" class="mr-3"/>
-                <a href="tel:093651212" target="_self" rel="noopener">09 365 1212</a>
+                <a href="tel:093651212" target="_self" rel="noopener">09 365 1122</a>
               </p>
             </li>
             <li>

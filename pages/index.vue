@@ -10,7 +10,7 @@
             Mobile Phone Repair since 2015
           </h1>
           <a class="text-white" href="tel:093651212" target="_self" rel="noopener">
-            Phone: 09 365 1212
+            Phone: 09 365 1122
           </a>
           <a class="text-white" href="tel:021365377" target="_self" rel="noopener">
             WhatsApp: 021 365 377
